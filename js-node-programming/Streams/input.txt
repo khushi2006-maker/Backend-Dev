@@ -1,0 +1,17 @@
+const express = require("express");
+const app= express();
+const PORT=8000;
+
+const students=[
+    {id:1, name:"raj", branch:"cse"},
+    {id:2, name:"ajay", branch:"ece"},
+    {id:3, name:"yash", branch"it"},
+];
+
+app.get("/",(req,res)=>{
+    res.send("welcome to home page");
+});
+
+app.get("/students",(req,res)=>{
+    res.json(students);
+});

@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/khushi2006-maker/Backend-Dev/issues"
   },
-  "homepage": "https://github.com/khushi2006-maker/Backend-Dev#readme"
+  "homepage": "https://github.com/khushi2006-maker/Backend-Dev#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }

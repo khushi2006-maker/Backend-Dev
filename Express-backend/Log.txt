@@ -1,2 +1,6 @@
 
 Request at: 11/2/2026, 10:45:11 am | Method: GET | URL: /dashboard
+Request at: 11/2/2026, 11:41:20 am | Method: GET | URL: /students/search?branch=ECE
+Request at: 11/2/2026, 11:41:34 am | Method: GET | URL: /students/search?branch=ECE
+Request at: 11/2/2026, 11:41:43 am | Method: GET | URL: /
+Request at: 11/2/2026, 11:41:43 am | Method: GET | URL: /favicon.ico
